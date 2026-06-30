@@ -1,0 +1,17 @@
+# Projeto 01 - Selo de Retenção
+
+## Objetivo
+Acionar um motor utilizando Start e Stop.
+
+## Componentes
+- Botão Start
+- Botão Stop
+- Motor
+
+## Conceitos
+- Selo de retenção
+- Contato normalmente aberto
+- Contato normalmente fechado
+
+## Funcionamento
+Ao pressionar Start, o motor permanece ligado até que o Stop seja acionado.
